@@ -1,0 +1,147 @@
+MACROPAD INSTRUCTIONS
+
+
+
+						   Vial
+
+
+
+
+1. GETTING INTO VIAL
+
+In order to change keyboard functions you must go to vial.rocks
+
+Once there plug in your macro pad from the back ( this will have to be a usb c data cable) and select the start vial button on the screen.
+
+You will be prompted with a pop up asking to pair your device, select "3by2" and click connect.
+
+
+you are now in your keyboard layout editor!
+
+
+
+2. VIAL EXPLANATION 
+
+Vial has 5 total tabs but you will only need to access the first two, "Keymap" and "Macros".
+
+KEYMAP
+
+In the Keymap tab you are able to choose the layout of your keyboard and what you want each key to do.
+
+in this tab the main sub tabs that you will use are "basic", "app, media and mouse", and "macro".
+the "basic" and "app, media and mouse" tab will be for your average keys like letters, volume, numbers, and anything you would generally find on a keyboard. the macros tab is where things get interesting.
+
+MACROS
+
+In the macros tab you have the ability to shorten tedious tasks that would otherwise take multiple keypresses down to one keypress, for example instead of holding control c in order to copy something you could create a macro to do that in one press, or you could even make macros that will open apps or websites with a single keypress.
+
+
+
+3. CREATING MACROS 
+
+With creating a macro there are 5 commands that come up when you tap the add action button, "text", "down", "up", "tap", and "delay".
+
+3a. the "text action will type in whatever text you type into the box
+
+3b. the "down" action will hold down whatever key or keys you select and the "up" action will release those held down keys.
+
+3c. the "tap" action will act as a quick press or an down and up action of whatever key or keys you select.
+
+3d. the "delay" action will add a pause of the specified time in milliseconds, this is sometimes needed when your macros become more complicated in what you want them to do, it will wait a certain amount of time before executing a command.
+
+
+lets make an example  macro that will open Spotify for us!
+
+1. select add action and change the action to tap, then press the + and add a key and change it to "LGui" (this is the windows key)
+2. add another action and change it to delay and for the time put 100ms, this wait makes sure that the windows key has been processed and is fully pulled up before it begins to type in the text.
+3.add another action and change it to text, type in the name of the application or url of the website you want to open, in this case type in Spotify.
+4. add another action and change it to a delay for 1200ms (keep in mind that these values will be different for different computers as some may be faster or slower than others so it will need to be altered if it does not work for you).
+5. add a tap action and for the key select the "enter" key.
+6. add another delay of about 2000ms.
+the next two steps are optional but their purpose is to bring the applications to full screen when they open as some don't open full screen by default.
+7. add a down action and add two keys which will be "LGui" and "up".
+8. add a up action and add two keys which will be "LGui" and "up".
+
+
+
+
+
+
+
+
+We have now made a macro that will open up Spotify for us and make it full screened at the click of a button!
+
+IMPORTANT!!!!!! -- to save the macro select save and you will be prompted to put the keyboard into unlock mode, to do so you must select the middle key in the top row and the fist key in the bottom left and hold both of them down simultaneously until the bar is filled.
+
+
+The cool part is now that we have this made this macro, in the same tab we can select the "open text editor" button and copy everything inside and paste it into an empty macro tabs text editor and just change the text to open what we want it to and voila we have another macro made.
+
+
+
+
+
+
+4. Final vial instructions
+
+the last thing you need to know about vial are Layers.
+
+4a. layers give a keyboard the ability to do have inputs than there are keys, for example when you hold down shift and select 1 it types an !.
+
+
+4b. this macro pad has 4 layers which are numbered 0,1,2,and 3
+4c. to swap between these layers you press down on the volume knob and the smaller screen will tell you what layer you are on.
+
+4d.in the keymaps tab the button to switch between layers is the TO() button and the number inside of the parenthesis is the layer that it will switch to when pressed.  so on layer 0 the to(1) when pressed will take you to layer 1 and on layer 1 the to(2) will take you to layer 2, and etc. but on the final layer, layer 3 the To() will be to(0) so it will restart the cycle and take you back to the first layer.
+
+4e. this macro pad has 4 layers and 6 keys so a total of 24 total possible keys with just 6 buttons.
+if you do not want to use all of the layer change the to() of the last layer you want to use to take you back to layer 0.
+
+
+4f. you can also change the volume knob to do other stuff if you want to it would work the same as changing a regular key.
+
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+					Changing Macro pad images
+
+
+1. Changing the Macropad images can be quite tedious so i will make premade animations and email the files to you but the first step is to download "Arduino IDE for windows" once the download is done install and unpackage the software.
+
+2. the next step is to unplug the Macropad from its usual usb-C port in the back and plug a usb micro data cable into the side and connect it to your computer. IMPORTANT!!!!!! DO NOT HAVE BOTH THE FRONT AND SIDE PORTS CONNECTED TO POWER AT THE SAME TIME.
+
+3. next open one of the files i have provided in Arduino ide
+
+4. click on the drop down menu in the top of the screen and hit "Select other board and port" now search for "ESP32 Dev Module" click on it and then select the port that you have it plugged into. (if you dont know which port it is unplug and plug it back in and select the port that went missing when you unplugged"). when you have selected everything hit OK.
+
+5. now select the check mark in the top right corner of the screen to compile the code and wait for it to finish
+
+6. once the code has finished compiling select the next arrow right beside the check mark in order to upload the code to the macropad and wait for it to finish uploading
+
+7. you have now changed animations on your macropad! unplug the side cable and reconnect you macro pad to the computer using the back usb-C cable
+
+
+Below are some websites that have more animations for your screen! if you find any that you like dont be afraid to email me a picture and or link of the animation you want and i will send you back a code file to upload to your screen!
+
+
+
+1. https://imgur.com/a/ultimate-rival-700-oled-gif-album-60-M9XEq#
+2. https://gif.guru/oled-steelseries-gifs
+3. you can also just google "oled gif animations" or images and browse those options
+
+
+for any questions or concerns you can reach me at saidsoumaila05@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+

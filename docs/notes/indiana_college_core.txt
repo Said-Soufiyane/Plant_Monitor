@@ -1,0 +1,66 @@
+INDIANA COLLEGE CORE
+Written Communication
+ENGL 111 - English Composition CREDIT HOURS MIN: 3
+Speaking and Listening
+COMM 101 - Fundamentals of Public Speaking CREDIT HOURS MIN: 3
+Quantitative Reasoning - STEM Core Track
+MATH 211 - Calculus I CREDIT HOURS MIN: 4
+MATH 212 - Calculus II CREDIT HOURS MIN: 4
+Scientific Ways of Knowing - STEM Core Track
+PHYS 220 - Mechanics CREDIT HOURS MIN: 5
+ 
+
+PHYS 221 - Heat Electricity and Optics CREDIT HOURS MIN: 5
+OR
+
+CHEM 106 - General Chemistry II CREDIT HOURS MIN: 5
+Social and Behavioral Ways of Knowing
+Social and Behavioral Ways of Knowing CREDIT HOURS: 3
+Humanistic and Artistic Ways of Knowing
+Humanistic and Artistic Ways of Knowing CREDIT HOURS: 3
+REQUIREMENT TOTAL: 30
+OTHER INSTITUTIONAL REQUIREMENTS
+IVYT 111 - Student Success in University Transfer CREDIT HOURS MIN: 1
+ENGR 279 - Capstone Course CREDIT HOURS MIN: 1 ^
+REQUIREMENT TOTAL: 2
+PROFESSIONAL/TECHNICAL CORE
+MATH 261 - Multivariate Calculus CREDIT HOURS MIN: 4
+ 
+
+MATH 264 - Differential Equations CREDIT HOURS MIN: 3
+OR
+
+MATH 265 - Linear Algebra CREDIT HOURS MIN: 3
+ 
+
+ENGR 160 - Engineering Software Tools II CREDIT HOURS MIN: 3
+OR
+
+ENGR 196 - Introduction to Engineering CREDIT HOURS MIN: 3
+OR
+
+ENGR 140 - Engineering Software Tools I CREDIT HOURS MIN: 3
+REQUIREMENT TOTAL: 10
+TRANSFER CLUSTER
+REQUIREMENT TOTAL: 18
+TOTAL CREDITS: 60
+SYMBOL KEY
+
+^ Capstone  course
+
+TRANSFER CLUSTER
+Courses listed below such as ENGR XXX, CHEM 2XX, and CSCI XXX indicates that multiple courses can be taken in this prefix field.
+
+ENGR XXX - Engineering Elective Course(s)
+CHEM 105 - General Chemistry I CREDIT HOURS MIN: 5
+CHEM 2XX - Chemistry Elective Course(s)
+CSCI XXX - Computer Science Elective Course(s)
+CHEM 106 - General Chemistry II CREDIT HOURS MIN: 5
+BIOL 105 - Biology I - Molecular and Cellular Processes CREDIT HOURS MIN: 5
+BIOL 121 - General Biology I CREDIT HOURS MIN: 4
+BIOL 122 - General Biology II CREDIT HOURS MIN: 4
+MATH 200 - Statistics CREDIT HOURS MIN: 3
+MATH 213 - Multidimensional Mathematics CREDIT HOURS MIN: 3
+PHYS 221 - Heat Electricity and Optics CREDIT HOURS MIN: 5
+METC 143 - Materials and Processes CREDIT HOURS MIN: 3
+METC 220 - CAD for Mechanical Design CREDIT HOURS MIN: 3
